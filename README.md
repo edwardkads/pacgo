@@ -1,6 +1,7 @@
 # Pack Go
 
-Golang packman clone -> this project is based off the tutorial  [Pack Go](https://github.com/danicat/pacgo)
+Golang packman clone -> this project is based off the tutorial  [Pack Go Tutorial](https://github.com/danicat/pacgo)
+
 To run
 ```sh
 $ go run main.go
